@@ -1,2 +1,2 @@
 # hello-world
-github guige test repo
+github guide test repo
